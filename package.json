@@ -1,7 +1,7 @@
 {
   "name": "mobx-state-tree-action-catch",
   "version": "1.0.0",
-  "description": "a mst middleware is inject marker to performance profile.",
+  "description": "Error catcher middleware for mobx state tree",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
